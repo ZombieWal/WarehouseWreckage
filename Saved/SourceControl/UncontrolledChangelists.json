@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/akulakova/Unreal/WarehouseWreckage/Content/StarterContent/Props/SM_PillarFrame.uasset",
-				"/Users/akulakova/Unreal/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+				"/Users/akulakova/Unreal/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/akulakova/Unreal/WarehouseWreckage/Content/StarterContent/Maps/Default_Level.umap"
 			]
 		}
 	]
